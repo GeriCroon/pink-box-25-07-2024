@@ -14,34 +14,29 @@ SELECTOR HERE {
   padding: 8px;
 }
 .pink-box {
-    font-family: cursive;
-    padding: 8px;
-    color: pink;
-    height: 150px;
-    width: 150px;
+  font-family: cursive;
+  padding: 8px;
+  color: pink;
+  height: 150px;
+  width: 150px;
 
-    background-color: hotpink;
-    text color: white;
+  background-color: hotpink;
+  color: white;
 
-    cursor: pointer; /*maus wird zum pointing maus*/
-    border: dotted #f984ef 20px;
-     /*? border-style: :double-button;?*/
-    box-shadow: #ff878d 10px; /* why doesnt it work*/
+  cursor: pointer; /*maus wird zum pointing maus*/
+  border: dotted #f984ef 20px;
+  /*? border-style: :double-button;?*/
+  box-shadow: #ff878d 10px; /* why doesnt it work*/
 
-    position: sticky ; /*relatively positioned until scolling*/
-
-
-
-  
-  }
-
-  /* set the height and the width of the box to 150px */
-
-  /* make the background color "hotpink" */
-
-  /* make the text color "white" */
-
-  /* can you give the box round edges with an radius of 8px? */
-
-  /* ✨ feel free to experiment! */
+  position: sticky; /*relatively positioned until scolling*/
 }
+
+/* set the height and the width of the box to 150px */
+
+/* make the background color "hotpink" */
+
+/* make the text color "white" */
+
+/* can you give the box round edges with an radius of 8px? */
+
+/* ✨ feel free to experiment! */
